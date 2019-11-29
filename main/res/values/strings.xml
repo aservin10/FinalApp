@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string-array name="carreras">
+        <item>Desarrollo de Software Multiplataforma</item>
+        <item>Infraestructura de Redes Digitales</item>
+        <item>Mecatrónica</item>
+
+    </string-array>
+    <string-array name="materias">
+        <item>Programación</item>
+        <item>Base de Datos</item>
+        <item>Sistemas Operativos</item>
+    </string-array>
+    <string name="tema">Ingresar tema del día </string>
+    <string name="registro">Registrar tema</string>
+</resources>
